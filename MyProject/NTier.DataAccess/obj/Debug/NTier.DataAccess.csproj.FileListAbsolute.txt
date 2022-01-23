@@ -1,0 +1,17 @@
+C:\Users\ATAKAN\Desktop\Projelerim\MyProject\NTier.DataAccess\bin\Debug\NTier.DataAccess.dll.config
+C:\Users\ATAKAN\Desktop\Projelerim\MyProject\NTier.DataAccess\bin\Debug\NTier.DataAccess.dll
+C:\Users\ATAKAN\Desktop\Projelerim\MyProject\NTier.DataAccess\bin\Debug\NTier.DataAccess.pdb
+C:\Users\ATAKAN\Desktop\Projelerim\MyProject\NTier.DataAccess\bin\Debug\Core.dll
+C:\Users\ATAKAN\Desktop\Projelerim\MyProject\NTier.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ATAKAN\Desktop\Projelerim\MyProject\NTier.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ATAKAN\Desktop\Projelerim\MyProject\NTier.DataAccess\bin\Debug\NTier.Entities.dll
+C:\Users\ATAKAN\Desktop\Projelerim\MyProject\NTier.DataAccess\bin\Debug\Core.pdb
+C:\Users\ATAKAN\Desktop\Projelerim\MyProject\NTier.DataAccess\bin\Debug\Core.dll.config
+C:\Users\ATAKAN\Desktop\Projelerim\MyProject\NTier.DataAccess\bin\Debug\NTier.Entities.pdb
+C:\Users\ATAKAN\Desktop\Projelerim\MyProject\NTier.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ATAKAN\Desktop\Projelerim\MyProject\NTier.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ATAKAN\Desktop\Projelerim\MyProject\NTier.DataAccess\obj\Debug\NTier.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ATAKAN\Desktop\Projelerim\MyProject\NTier.DataAccess\obj\Debug\NTier.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ATAKAN\Desktop\Projelerim\MyProject\NTier.DataAccess\obj\Debug\NTier.DataAccess.csproj.CopyComplete
+C:\Users\ATAKAN\Desktop\Projelerim\MyProject\NTier.DataAccess\obj\Debug\NTier.DataAccess.dll
+C:\Users\ATAKAN\Desktop\Projelerim\MyProject\NTier.DataAccess\obj\Debug\NTier.DataAccess.pdb
